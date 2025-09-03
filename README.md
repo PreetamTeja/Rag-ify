@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent Document Q&A System
+# 🤖 Rag-ify - No code RAG Pipeline
 
 <div align="center">
 
