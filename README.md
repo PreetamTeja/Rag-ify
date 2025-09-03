@@ -297,6 +297,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
+<img width="1870" height="837" alt="image" src="https://github.com/user-attachments/assets/f9a90667-ce22-4113-aa14-51ee5e6d37a3" />
+<img width="1865" height="881" alt="image" src="https://github.com/user-attachments/assets/4ba6b2dd-39fc-4824-82ad-eba4f471a9d5" />
+<img width="1902" height="896" alt="image" src="https://github.com/user-attachments/assets/d51c8ca5-aef8-4e55-a99c-88ae1c988fc6" />
+
+
+
+
 **Made with ❤️ for the AI community**
 
 [⭐ Star this repository](https://github.com/yourusername/multi-agent-document-qa) if you find it useful!
